@@ -1,0 +1,1 @@
+START "" /MIN "start_in_shell_Windows.bat"
